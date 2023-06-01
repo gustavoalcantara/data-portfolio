@@ -1,6 +1,8 @@
 # Data Analysis Portfolio
 
-This is my professional data analysis portfolio. You can check out my work using the links below.</p>
+This is my professional data analysis portfolio. You can check out my work using the links below. You can check out my work using the links below. It is divided into sections. </p> 
+
+## Visualizations
  
 [How do schools in Ceará perform in Mathematics?](https://info.basedosdados.org/bdletter17)
 
@@ -22,3 +24,5 @@ Tools: QGIS (Geoservices, Spatial Data ETL), Google Maps/Sheets
 Experience working with spatial metadata (ISO 19115) and conducting spatial analysis for the company.
 
 Tools: QGIS (Geoservices and Geoprocessing), R (ETL and Statistical Analysis)
+
+## ETLs
