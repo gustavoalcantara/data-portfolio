@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-This is my professional data analysis portfolio. You can check out my work using the links below. You can check out my work using the links below. It is divided into sections. </p> 
+This is my professional data analysis portfolio. You can check out my work using the links below. </p> 
 
 ## Visualizations
  
