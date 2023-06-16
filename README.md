@@ -2,8 +2,12 @@
 
 This is my professional data analysis portfolio. You can check out my work using the links below. </p> 
 
-## Visualizations
- 
+## Visualizations and Analitycs
+
+[What are the main financial institutions for credit operations in Brazil?](https://info.basedosdados.org/bdletter27)
+
+[How many enslaved people disembarked in Brazil throughout history?](https://info.basedosdados.org/bdletter26)
+
 [How do schools in Ceará perform in Mathematics?](https://info.basedosdados.org/bdletter17)
 
 [Has the coverage of basic health services kept up with the population growth in your state?](https://info.basedosdados.org/bdletter18)
@@ -22,7 +26,6 @@ Tools: QGIS (Geoservices, Spatial Data ETL), Google Maps/Sheets
 
 [Spatial Data Infrastructure of Embrapa](http://geoinfo.cnps.embrapa.br/)
 Experience working with spatial metadata (ISO 19115) and conducting spatial analysis for the company.
-
 Tools: QGIS (Geoservices and Geoprocessing), R (ETL and Statistical Analysis)
 
 ## ETLs
