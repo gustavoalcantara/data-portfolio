@@ -30,3 +30,4 @@ Experience working with spatial metadata (ISO 19115) and conducting spatial anal
 Tools: QGIS (Geoservices and Geoprocessing), R (ETL and Statistical Analysis)
 
 ## ETLs
+[Geospatial ETL](https://github.com/gustavoalcantara/data-porfolio/blob/main/geospatial_etl.ipynb)
