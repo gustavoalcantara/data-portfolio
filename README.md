@@ -9,7 +9,7 @@ This is my professional data analysis portfolio. You can check out my work using
 
 [How many enslaved people disembarked in Brazil throughout history?](https://info.basedosdados.org/bdletter26)
 
-[How do schools in Ceará perform in Mathematics?](https://info.basedosdados.org/bdletter17)
+[How do schools in Ceará perform in Mathematics?](https://9331013.hubspotpreview-na1.com/_hcms/preview/email/78941988104?portalId=9331013&preview_key=ZIKIZiWb&_preview=true&from_buffer=false&cacheBust=0)
 
 [Has the coverage of basic health services kept up with the population growth in your state?](https://info.basedosdados.org/bdletter18)
 
