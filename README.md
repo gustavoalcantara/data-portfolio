@@ -3,6 +3,8 @@
 This is my professional data analysis portfolio. You can check out my work using the links below. </p> 
 
 ## Visualizations and Analitycs
+[What is the difference in price per square meter between the neighborhoods of São Paulo?](https://info.basedosdados.org/bdletter30)
+
 [Where does Brazilian soy come from and where does it go?](https://info.basedosdados.org/bdletter28)
 
 [What are the main financial institutions for credit operations in Brazil?](https://info.basedosdados.org/bdletter27)
