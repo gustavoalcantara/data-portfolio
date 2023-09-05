@@ -3,7 +3,7 @@
 This is my professional data analysis portfolio. You can check out my work using the links below. </p> 
 
 ## Visualizations and Analitycs
-[What is the difference in price per square meter between the neighborhoods of São Paulo?](https://info.basedosdados.org/bdletter30)
+[What is the difference in the value of square meters between the neighborhoods in São Paulo?](https://info.basedosdados.org/bdletter30)
 
 [Where does Brazilian soy come from and where does it go?](https://info.basedosdados.org/bdletter28)
 
