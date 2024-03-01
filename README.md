@@ -3,7 +3,7 @@
 This is my professional data analysis portfolio. You can check out my work using the links below. </p> 
 
 ## Visualizations and Analitycs
-[Why use BigQuery? Analyzing billions of CNPJ (Brazilian business registration numbers) data using geolocation](https://www.youtube.com/watch?v=RmjEggL5ZwA&t=318s&ab_channel=BasedosDados)
+[Why use BigQuery? Analyzing billions of CNPJ (Brazilian business registration numbers) data and creating an attractiveness index for establishments by census tract in Brazil.](https://www.youtube.com/watch?v=RmjEggL5ZwA&t=318s&ab_channel=BasedosDados)
 
 [What is the difference in the value of square meters between the neighborhoods in São Paulo?](https://info.basedosdados.org/bdletter30)
 
