@@ -17,7 +17,7 @@ This is my professional data analysis portfolio. You can check out my work using
 
 [Has the coverage of basic health services kept up with the population growth in your state?](https://info.basedosdados.org/bdletter18)
 
-[The relationship between the HDI and the 2018 presidential vote in the state of São Paulo, Brazil](https://gustavoalcantara.github.io/bd_eleicoes/)
+[The relationship between the HDI and the 2018 presidential vote in the state of São Paulo, Brazil](https://medium.com/basedosdados/qual-a-rela%C3%A7%C3%A3o-entre-o-idhm-e-a-vota%C3%A7%C3%A3o-presidencial-de-2018-em-sp-aa9f1305586f)
 
 [Map of the Structural Condition of Public Squares in Campinas](https://www.feac.org.br/wp-content/uploads/2019/05/PRACA-PUBLICA.pdf) - 
 Conducted on-site experience analysis of public squares in Campinas with an area greater than 1000m² for social investments and hosting major events.
