@@ -28,7 +28,7 @@ Tools: QGIS (Spatial Analysis), R (Statistical Analysis and ETL)
 [Map of Violence in Campinas, São Paulo, Brazil, from 2011 to 2017](https://www.feac.org.br/wp-content/uploads/2019/12/DIAGNOSTICO-socioterritorial-fundacao-feac.pdf) - 
 Experience analyzing a dataset from Policia Civil of the São Paulo State with a focus on spatial analysis of youth homicides in the city of Campinas. Tools: QGIS (Spatial Analysis), R (Statistical Analysis and ETL)
 
-[MapOrganico - A map that displays the locations of organic food retailers in the state of São Paulo, Brazil](https://bit.ly/map_organicos)
+[MapOrganico - A map that displays the locations of organic food retailers in the state of São Paulo, Brazil](https://www.google.com/maps/d/u/0/viewer?mid=1YJtNMIVstdbIWfIiBu5DJXMbg74&ll=-13.88827948436885%2C-47.30861570000001&z=5)
 Tools: QGIS (Geoservices, Spatial Data ETL), Google Maps/Sheets
 
 [Spatial Data Infrastructure of Embrapa](http://geoinfo.cnps.embrapa.br/)
